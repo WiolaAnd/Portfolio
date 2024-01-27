@@ -7,6 +7,9 @@ You may download my CV as a PDF from [my Google Drive](https://drive.google.com/
 ### Example Test Cases
 ### Example Bug Reports
 ## Courses
+**QA Engineer course** - GoIT
+*10/2023-02/2024*
+Test management, common testing techniques, API testing, preparation for ISTQB
 ## Tools
 ## Tech skills
 - SQL
@@ -32,3 +35,10 @@ You may download my CV as a PDF from [my Google Drive](https://drive.google.com/
 3. Analytical
 4. Intellection
 5. Consistency
+## Books read
+- "Zawód tester. Od decyzji do zdobycia doświadczenia" Radosław Smilgin
+- "Exploratory Software Testing" James Whittaker
+## Blogs and podcasts I recommend
+- [Testowanie Oprogramowania Podcast](https://podcasttestowanie.pl)
+- [Tu się testuje](https://tusietestuje.pl)
+- [Po szklanie i na testowanie](https://poszklanieinatestowanie.pl)
