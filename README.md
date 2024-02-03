@@ -1,10 +1,14 @@
 # Portfolio
 ## About me
+My name is Wioleta Andrejczuk. I am QA Engineer with big curiosity about the world around me. My goal is to excel in the IT field and develop myself further as a software tester. The opportunity to master my skills and gain experience is what drives me forward. 
+I am currently preparing for ISTQB certification.
 ## CV
 You may download my CV as a PDF from [my Google Drive](https://drive.google.com/file/d/1RLbscwflUqNo10JdwTzcoHJuou1SjzhV/view?usp=sharing).
 ## Projects
 ### GoIT Project
+*~coming soon*
 ### Example Test Cases
+*~coming soon*
 ### Example Bug Reports
 - [Abercrombie](https://www.abercrombie.com/shop/eu)
   - [Bug report](https://docs.google.com/document/d/1HKtgAhdLq9CE-extBF--4j7_WRtzuZqt0QDmacNKZ8o/edit?usp=sharing)
@@ -18,6 +22,11 @@ You may download my CV as a PDF from [my Google Drive](https://drive.google.com/
 *10/2023-02/2024*
 Test management, common testing techniques, API testing, preparation for ISTQB
 ## Tools
+- Jira
+- TestRail
+- Qase
+- Trello
+- Postman
 ## Tech skills
 - SQL
 - HTML + CSS
@@ -25,7 +34,7 @@ Test management, common testing techniques, API testing, preparation for ISTQB
 - XML
 - Postman
 - Jira
-- Testrail
+- TestRail
 - Test cases and scenarios
 - Bug reports
 - Black and White-Box testing
