@@ -1,7 +1,7 @@
 # Portfolio
 ## About me
 Hi! My name is Wioleta Andrejczuk and welcome to my portfolio.<br />
-I am a versatile person with a diverse experience as my background. I studied chemistry which allowed me to practice my analytical skills, increased my attention to detail, and boosted my curiosity about the world around me. Then I switched to work as a logistics specialist in the furniture industry. This job greatly improved my communication skills and my organizational abilities. A combination of those skills and other courses that I have taken make me perfectly prepared to work as a software tester.<br />
+I am a versatile person with a diverse experience as my background. I studied chemistry which allowed me to practice my **analytical skills**, increased my **attention to detail**, and boosted my curiosity about the world around me. Then I switched to work as a logistics specialist in the furniture industry. This job greatly improved my **communication skills** and my organizational abilities. A combination of those skills and other courses that I have taken make me perfectly prepared to work as a **software tester**.<br />
 I believe IT is the right place for me because it is fast-changing and requires constant development. The opportunity to master my skills and gain experience is what drives me forward and gives me fun. 
 ## CV
 You may download my CV as a PDF from [my Google Drive](https://drive.google.com/file/d/1RLbscwflUqNo10JdwTzcoHJuou1SjzhV/view?usp=sharing).<br />
