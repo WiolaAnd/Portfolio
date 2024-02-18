@@ -4,13 +4,16 @@ Hi! My name is Wioleta Andrejczuk and welcome to my portfolio.<br />
 I am a versatile person with a diverse experience as my background. I studied chemistry which allowed me to practice my analytical skills, increased my attention to detail, and boosted my curiosity about the world around me. Then I switched to work as a logistics specialist in the furniture industry. This job greatly improved my communication skills and my organizational abilities. A combination of those skills and other courses that I have taken make me perfectly prepared to work as a software tester.<br />
 I believe IT is the right place for me because it is fast-changing and requires constant development. The opportunity to master my skills and gain experience is what drives me forward and gives me fun. 
 ## CV
-You may download my CV as a PDF from [my Google Drive](https://drive.google.com/file/d/1RLbscwflUqNo10JdwTzcoHJuou1SjzhV/view?usp=sharing).
+You may download my CV as a PDF from [my Google Drive](https://drive.google.com/file/d/1RLbscwflUqNo10JdwTzcoHJuou1SjzhV/view?usp=sharing).<br />
+Feel free to add me on [LinkedIn](https://www.linkedin.com/in/wioleta-andrejczuk/).
 ## Projects
 ### GoIT Project
 Group project of testing the application "Kapu$ta - Smart Finance" - a financial tool designed to help users manage their budget effectively.<br />
 I held the position of **Team Leader** and also did a lot of testing.<br />
+<br />
 **Tests we conducted:** Static testing | Boundary value analysis | Security testing | Compatibility testing | Usability testing <br />
 **Tools we used:** Requirements matrix | Qase | Jira | Swagger | Trello<br />
+<br />
 **Our work products:**
 - [Walkthrough of technical specification](https://docs.google.com/spreadsheets/d/1QFXnm4L-iQ2-cSn0A0W4kj2Kw2yBKLp1gPHC05vteOU/edit?usp=drive_link)
 - [Checklist](https://docs.google.com/spreadsheets/d/1mj_REeTH9ETF9dAUmyXWchdBEB-cNVzQozpytl1LSBU/edit?usp=drive_link)
