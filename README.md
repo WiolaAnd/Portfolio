@@ -34,7 +34,8 @@ I held the position of **Team Leader** and also did a lot of testing.<br />
 ## Courses
 **QA Engineer course** - GoIT<br />
 *10/2023-02/2024*<br />
-Test management, common testing techniques, API testing, preparation for ISTQB
+Test management, common testing techniques, API testing, preparation for ISTQB<br />
+[My certificate](https://drive.google.com/file/d/1c33dKg5Z5-0dT6v6ZEewMvKDifZ7XJBY/view?usp=sharing)
 ## Tools
 - Jira
 - TestRail
